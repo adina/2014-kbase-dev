@@ -1,0 +1,795 @@
+	mgm4509396.3	mgm4509398.3	mgm4509400.3
+Hydrophobic secreted aerial hyphae protein, ChpC	6075	18102	78203
+2-ketogluconate transporter	70	0	0
+Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	3255	9311	38974
+Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	4003	12843	48264
+Serine hydroxymethyltransferase (EC 2.1.2.1)	3010	8588	36126
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	2164	6528	25298
+ABC-type vanadate transport system, permease protein	2	0	0
+Acetoacetate decarboxylase (EC 4.1.1.4)	0	347	1683
+Acetyl-CoA:acetoacetyl-CoA transferase, beta subunit (EC 2.8.3.8)	132	391	1609
+Acetone carboxylase, alpha subunit (EC 6.4.1.6)	34	0	556
+Acetophenone carboxylase subunit Apc5	1065	0	0
+Acetyl-CoA:acetoacetyl-CoA transferase, beta subunit (EC 2.8.3.8)	132	391	1609
+Butyrate-acetoacetate CoA-transferase subunit B (EC 2.8.3.9)	65	0	727
+Enoyl-CoA hydratase (EC 4.2.1.17)	328	904	3785
+Ferredoxin-like protein	0	1241	0
+Arginine decarboxylase, catabolic (EC 4.1.1.19)	163	0	0
+Arginine decarboxylase (EC 4.1.1.19)	993	0	0
+Geranyl-CoA carboxylase carboxyl transferase subunit	0	2	0
+5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase related protein BT9727_1702	1584	4571	20362
+Cysteine desulfurase (EC 2.8.1.7), IscS subfamily	879	0	0
+Iron-sulfur cluster assembly scaffold protein IscU	0	801	0
+Alginate biosynthesis protein Alg8	7	0	0
+Alginate biosynthesis protein AlgX	0	2	0
+probable dibenzothiophene desulfurization enzyme	2843	9413	36115
+Sulfate ester binding protein	615	1766	6792
+PhnJ protein	53	198	679
+Allantoate amidohydrolase (EC 3.5.3.9)	3672	9869	44406
+Lactam utilization protein LamB	860	2339	10439
+Glutamate synthase [NADPH] large chain (EC 1.4.1.13)	7197	22151	90626
+Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)	304	859	3363
+6-hydroxycylohex-1-ene-1-carbonyl-CoA dehydrogenase	943	3005	11457
+Glutaryl-CoA dehydrogenase (EC 1.3.99.7)	2035	6335	0
+D-Ornithine 4,5-aminomutase E subunit (EC 5.4.3.5)	12	0	0
+Adenylylsulfate reductase alpha-subunit (EC 1.8.99.2)	126	274	1223
+Adenylylsulfate reductase beta-subunit (EC 1.8.99.2)	17	72	245
+CoB--CoM-reducing hydrogenase (Cys) delta subunit	0	2	0
+2-[hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase beta subunit (EC 1.1.1.35)	2851	8393	33531
+O-acetyltransferase, anthrose biosynthesis	1	0	0
+Apigenin 4'-O-methyltransferase (EC 2.1.1.75)	77	0	0
+Flagella-related protein FlaF	616	1769	6806
+Flagella-related protein FlaG	544	1801	6966
+Arginine decarboxylase, catabolic (EC 4.1.1.19)	66	0	0
+Arginine/ornithine ABC transporter, permease protein AotM	0	10	0
+N-carbamoylputrescine amidase (3.5.1.53)	1065	0	0
+Ornithine decarboxylase (EC 4.1.1.17)	943	3005	11457
+Argininosuccinate synthase (EC 6.3.4.5)	2833	8324	33261
+Uncharacterized PLP-dependent aminotransferase YfdZ	225	681	2725
+Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9), inferred for PFA pathway	0	0	28136
+Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)	0	4031	0
+Cysteine desulfurase (EC 2.8.1.7), IscS subfamily	880	0	0
+ATP-dependent RNA helicase VCA0990	0	728	2718
+Autoinducer 2 (AI-2) ABC transport system, membrane channel protein LsrD	4688	13354	57487
+Indole-acetaldehyde reductase	10	0	0
+Tryptophan transaminase	1355	4310	16400
+Peroxidase (EC 1.11.1.7)	3142	10024	39097
+Fe-bacillibactin uptake system FeuD	3	0	0
+SinR, regulator of post-exponential-phase responses genes (competence and sporulation)	3	0	0
+Transcriptional activator PlcR	2	0	0
+Alanine-anticapsin ligase BacD	1	0	0
+Rod shape-determining protein MreB	2666	0	35282
+Formate dehydrogenase O alpha subunit (EC 1.2.1.2)	1809	0	27201
+Formate dehydrogenase O beta subunit (EC 1.2.1.2)	523	1861	7985
+Rod shape-determining protein MreB	2666	0	35282
+Transcriptional regulator in cluster with Zn-dependent hydrolase	1083	3282	13279
+Signal recognition particle associated protein	2026	6305	0
+Transcription regulator Bat, regulates bacteriorhodopsin synthesis	2131	5893	24813
+benzoyl-CoA-dihydrodiol lyase (BoxC)	904	2656	11322
+Benzoyl-CoA oxygenase component B	805	2569	10931
+AscBF operon repressor	0	2	0
+Beta-glucoside ABC transport system, ATP-binding protein 2	1	0	0
+Cellobiose phosphorylase (EC 2.4.1.-)	124	384	1975
+Pyruvate formate-lyase (EC 2.3.1.54)	1029	2679	9735
+Beta-lactamase repressor BlaI	592	1827	7024
+Putative copper metallochaperone, cytochrome oxidase biogenesis protein Cox19	3439	9783	41962
+Biotin synthesis protein bioZ	2	0	0
+Pimeloyl-CoA synthase (EC 6.2.1.14)	0	2	0
+Biotin synthesis protein bioZ	852	2458	10695
+2-hydroxy-3-carboxyhexa-4,6-diene hydrolase	0	4026	0
+Biphenyl dioxygenase beta subunit (EC 1.14.12.18)	891	0	0
+3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	3295	0	0
+Dihydroxy-acid dehydratase (EC 4.2.1.9)	4271	0	0
+Ketol-acid reductoisomerase (EC 1.1.1.86)	2120	5862	24661
+Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	2705	8961	34419
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)	614	1766	6790
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)	544	1799	6936
+Pyruvate formate-lyase (EC 2.3.1.54)	1029	2679	9735
+Fructose-bisphosphate aldolase class I (EC 4.1.2.13)	1896	0	24208
+Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	1029	3048	0
+NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	0	8685	37593
+NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)	0	1263	5051
+Phosphoribulokinase (EC 2.7.1.19)	71	223	1052
+Phosphoribulokinase (EC 2.7.1.19) homolog, function unknown	4	0	0
+Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	93	267	1236
+Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)	28	87	419
+ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	2283	7336	30507
+tetrahydrocannabinolic acid synthase	732	0	9499
+GDP-mannose 4,6-dehydratase (EC 4.2.1.47)	707	0	0
+Oligosaccharide repeat unit polymerase Wzy	0	2	0
+Putative Carbon monoxide dehydrogenase subunit, maturation factor	0	15	0
+CO dehydrogenase/acetyl-CoA synthase subunit delta, corrinoid iron-sulfur subcomplex small subunit	41	0	492
+CooJ	4	0	0
+Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	93	267	1236
+Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)	28	87	419
+CrtV-methyltransferase-like protein	0	1844	0
+Dehydrosqualene synthase (EC 2.5.1.-)	2	0	0
+gamma-carotene hydroxylase	8005	7	105235
+Mll7752 protein	71	198	908
+FIG110192: hypothetical protein	0	656	0
+ATP-dependent Clp protease ATP-binding subunit ClpA	0	0	49804
+SSU ribosomal protein S2p (SAe)	1786	4929	0
+Lipoprotein Bor	0	1	0
+Iron-sulfur cluster assembly ATPase protein SufC	1951	5318	22097
+Iron-sulfur cluster assembly protein SufB	3512	9345	42374
+Dehydrosqualene synthase (EC 2.5.1.-)	2	0	0
+YcgN (Fragment)	6	0	0
+RecA protein	2428	7065	31135
+Adenylosuccinate synthetase (EC 6.3.4.4)	1720	5707	22419
+Molybdopterin oxidoreductase (EC 1.2.7.-)	1584	4571	20362
+protein of unknown function DUF1036	31	128	559
+protein of unknown function DUF1244	26	67	312
+SSU ribosomal protein S2p (SAe)	1786	4929	0
+Carbon monoxide dehydrogenase small chain (EC 1.2.99.2)	1337	4622	18693
+FIG006126: DNA helicase, restriction/modification system component YeeB	60	186	775
+FIG046709: Hypothetical protein	1	0	0
+FIG033680: Hypothetical protein	110	234	0
+Tyrosine recombinase XerC	0	2	0
+Topoisomerase IV subunit B (EC 5.99.1.-)	2113	6260	23632
+D-malic enzyme (EC 1.1.1.83)	926	2661	0
+Tartrate decarboxylase (EC 4.1.1.73)	929	0	0
+Tartrate dehydrogenase (EC 1.1.1.93)	929	0	0
+SSU ribosomal protein S15p (S13e)	625	0	0
+Peptide chain release factor 2	1881	5707	23806
+Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)	6075	18102	78203
+Menaquinone-cytochrome c reductase, cytochrome B subunit	398	1121	5678
+Phosphate starvation-inducible ATPase PhoH with RNA binding motif	0	1148	0
+Phosphate starvation-inducible protein PhoH, predicted ATPase	1327	0	16628
+1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)	0	6455	27302
+Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)	2780	8499	36873
+Helicase IV (EC 3.6.1.-)	1	0	29
+Fin: required for the switch from sigmaF to sigmaG during sporulation	0	0	1
+Alpha-glucosidase SusB (EC 3.2.1.20)	90	128	598
+Tryptophan synthase beta chain (EC 4.2.1.20)	2386	7215	29549
+Tryptophan synthase beta chain like (EC 4.2.1.20)	688	2424	10949
+2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)	846	2926	10968
+2-keto-4-pentenoate hydratase (EC 4.2.1.-)	1410	0	0
+TctA citrate transporter	0	579	0
+ATP-dependent Clp protease ATP-binding subunit ClpA	0	0	49804
+ATP-dependent Clp protease adaptor protein ClpS like	44	86	375
+Bacterial proteasome-activating AAA-ATPase (PAN)	692	2340	54879
+Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'	423	1520	5640
+Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11)	2288	6409	25886
+carboxysome shell protein CsoS1	1	0	0
+Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	93	267	1236
+Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)	28	87	419
+Rubisco activation protein CbbQ	119	299	1659
+Thrombin, protease S01.217	2429	7069	31146
+Ketol-acid reductoisomerase (EC 1.1.1.86)	2120	5862	24661
+Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)	252	914	3529
+Aerobic cobaltochelatase CobT subunit (EC 6.6.1.2)	404	0	0
+SVP26 protein associated with early Golgi proteins (SNARE associated domain)	125	388	1995
+LSU ribosomal protein L31p	491	0	0
+LSU ribosomal protein L33p	270	860	3593
+VEGETATIBLE INCOMPATIBILITY PROTEIN HET-E-1	1036	2718	9909
+Cysteine desulfurase (EC 2.8.1.7), IscS subfamily	879	0	0
+Thiamin biosynthesis protein ThiC	2172	6161	28560
+L-arabonate dehydratase (EC 4.2.1.25)	682	2286	8853
+GDP-mannose 4,6-dehydratase (EC 4.2.1.47)	707	0	0
+2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)	846	2926	10968
+RecA protein	2440	7117	31298
+Conjugative transposon protein TraF	6	0	0
+Conjugative transposon protein TraG	70	0	0
+Conjugative transposon protein TraM	110	308	1354
+Conjugative transposon protein TraN	0	101	0
+Conjugative transposon protein TraP	0	300	1667
+Suppression of copper sensitivity: putative copper binding protein ScsA	141	617	2330
+Glycosyltransferase (EC 2.4.1.-) in large core OS assembly cluster	1	0	0
+Dimethylglycine dehydrogenase (EC 1.5.99.2)	78	0	0
+CRISPR-associated protein, TM1800 family	1	0	0
+CTP synthase (EC 6.3.4.2)	3669	11131	47450
+Cyanate ABC transporter, permease protein	0	369	1454
+Cyanate ABC transporter, substrate binding protein	242	616	2529
+Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)	1355	4310	16400
+Lipase precursor (EC 3.1.1.3)	1100	3186	13990
+Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	4003	12843	48264
+Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent	662	2217	10282
+Nitric-oxide reductase subunit B (EC 1.7.99.7)	117	342	1301
+Nitrous-oxide reductase (EC 1.7.99.6)	447	0	0
+PurR: transcription regulator associated with purine metabolism	1341	4633	18756
+Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)	8093	0	0
+D-galactarate dehydratase (EC 4.2.1.42)	155	427	1575
+Alpha-glucuronidase (EC 3.2.1.139)	251	647	3450
+D-galactarate dehydratase (EC 4.2.1.42)	155	427	1575
+Uronate isomerase (EC 5.3.1.12)	580	0	0
+Dehydrogenase involved in DMSP breakdown	598	1780	7446
+DMSP breakdown hydrolase protein	0	164	655
+DNA gyrase subunit B (EC 5.99.1.3)	4674	13314	57270
+DNA sulfur modification protein DndE	2	0	0
+DNA repair protein RAD51 homolog 3	1083	3282	13279
+RecA protein	2428	7065	31135
+RecA protein	2428	7065	31135
+RecA protein	2428	7065	31135
+Excinuclease ABC subunit A	11996	36137	144395
+Excinuclease ABC subunit A paralog in greater Bacteroides group	503	0	0
+Excinuclease ABC subunit A paralog of unknown function	2214	7900	23782
+Excinuclease ABC subunit B	5023	14033	61249
+DNA gyrase subunit B (EC 5.99.1.3)	4674	13314	57270
+Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)	1083	3282	13279
+RecA protein	2428	7065	31135
+Replicative DNA helicase (EC 3.6.1.-); intein-containing	34	116	306
+Integration host factor beta subunit	2050	5662	19336
+DNA gyrase subunit B (EC 5.99.1.3)	4674	13314	57270
+Topoisomerase IV subunit B (EC 5.99.1.-)	2113	6260	23632
+Putative snRNP Sm-like protein, Archaeal	3295	0	0
+U6 snRNA-associated Sm-like protein LSm6	0	2	0
+GDB1 like ass w/ COG3533Xanth	4276	0	0
+Hydrolase ass w/ COG3533Xanth	2207	6086	25749
+IcmM protein	71	0	0
+Transmembrane component of energizing module of predicted pantothenate ECF transporter	4	0	0
+Transmembrane component of energizing module of predicted pyridoxine-related ECF transporter	860	2339	10439
+Energy conserving hydrogenase Eha transmembrane protein I	7180	20340	87997
+Energy conserving hydrogenase Eha transmembrane protein J	702	2142	9971
+Enolase (EC 4.2.1.11)	3439	9781	41960
+NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	0	8685	37593
+Predicted erythritol ABC transporter 1, permease component 1	21	0	0
+Predicted erythritol ABC transporter 1, substrate-binding component	37	0	442
+Predicted erythritol ABC transporter 2, substrate-binding component	4	0	0
+10 kDa culture filtrate antigen CFP-10 (EsxB)	126	277	1229
+6 kDa early secretory antigenic target ESAT-6 (EsxA)	16	53	200
+ESAT-6/Esx family secreted protein EsxB	0	2	0
+Crotonyl-CoA carboxylase/reductase, ethylmalonyl-CoA producing	497	1727	6751
+Ethylmalonyl-CoA mutase, methylsuccinyl-CoA-forming	766	2679	10094
+Mesaconyl-CoA hydratase	303	1023	4206
+Methylsuccinyl-CoA dehydrogenase, predicted by (Erb et al, 2007)	520	1776	7300
+cell division cycle 37 homolog (S. cerevisiae)	7198	22154	90642
+Complement component 1, Q subcomponent binding protein, mitochondrial precursor	4380	13553	58605
+Nuclear pore complex protein Nup88	0	0	1016
+RAP interaction protein alpha	7197	22151	90628
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)	665	1860	7274
+Exopolysaccharide biosynthesis transcriptional activator EpsA	0	2	0
+Exosome complex exonuclease RRP4	4392	13583	58660
+Exosome complex exonuclease RRP41 (EC 3.1.13.-)	229	709	2612
+Exosome complex exonuclease RRP42 (EC 3.1.13.-)	1261	3616	13886
+Urocanate hydratase (EC 4.2.1.49)	3108	9491	37975
+Dihydroneopterin aldolase (EC 4.1.2.25)	2967	9821	37742
+Phenylalanine-4-hydroxylase (EC 1.14.16.1)	881	2794	10918
+ATP synthase alpha chain (EC 3.6.3.14)	3581	10242	44175
+ATP synthase beta chain (EC 3.6.3.14)	3509	10612	44636
+3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.60)	98	311	1186
+Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)	3708	11203	48505
+Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)	3668	0	46992
+surface localized undecaheme cytochrome c lipoprotein, UndB	499	1732	6770
+Acetate kinase (EC 2.7.2.1)	3408	9674	42912
+D-lactate dehydrogenase (EC 1.1.1.28)	2308	7318	30455
+Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)	3744	11556	52946
+Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9)	3744	11556	52946
+Pyruvate formate-lyase (EC 2.3.1.54)	1029	2679	9735
+Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent	671	2236	10386
+Thymidylate synthase (EC 2.1.1.45)	772	2245	8698
+Formate dehydrogenase N alpha subunit (EC 1.2.1.2)	195	655	2469
+Formate dehydrogenase O alpha subunit (EC 1.2.1.2)	1813	0	27202
+Formate dehydrogenase O gamma subunit (EC 1.2.1.2)	3654	10455	45164
+Formate dehydrogenase N beta subunit (EC 1.2.1.2)	676	2239	10388
+Formate dehydrogenase putative subunit (EC 1.2.1.2)	162	0	2447
+Hydrogenase-4 component D (EC 1.-.-.-)	777	2266	8800
+Hydrogenase IV Fe-S protein HyfA	190	644	2416
+NAD-dependent formate dehydrogenase beta subunit	0	0	31130
+NAD-dependent formate dehydrogenase delta subunit	542	1901	8235
+Putative formate dehydrogenase iron-sulfur subunit (EC 1.2.1.2)	116	326	1346
+tungsten-containing formate dehydrogenase alpha subunit	1231	3812	15443
+tungsten-containing formate dehydrogenase beta subunit	541	1751	6875
+CcdB toxin protein	423	1521	5645
+Two-peptide bacteriocin peptide CibA	3	0	0
+periplasmic fumarate reductase, FccA (EC 1.3.99.1)	781	2720	10243
+Methylmalonyl-CoA mutase (EC 5.4.99.2)	7545	21385	92803
+Urease accessory protein UreG	537	1434	5508
+Urease alpha subunit (EC 3.5.1.5)	1608	4815	18796
+Gamma-glutamyl-putrescine synthetase (EC 6.3.1.11)	60	0	684
+Glutamate Aspartate transport ATP-binding protein GltL (TC 3.A.1.3.4)	0	666	2498
+Glutamate synthase [NADPH] large chain (EC 1.4.1.13)	7197	22151	90626
+Glutamine synthetase type I (EC 6.3.1.2)	4380	13552	58602
+Aspartate--ammonia ligase (EC 6.3.1.1)	0	0	997
+Glutamate synthase [NADPH] large chain (EC 1.4.1.13)	7197	22151	90626
+Glutamine synthetase type I (EC 6.3.1.2)	4380	13552	58602
+Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)	229	709	2612
+Glutamine synthetase type III, GlnN (EC 6.3.1.2)	1258	3612	13880
+Glutamine synthetase type I (EC 6.3.1.2)	4380	13552	58602
+Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)	229	709	2612
+Glutamine synthetase type III, GlnN (EC 6.3.1.2)	1258	3612	13880
+Predicted alternative glutathione synthetase (EC 6.3.2.3)	483	1503	6335
+S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284)	5452	15392	65986
+Distant similarity with leukotriene C4 synthase (microsomal glutathione S-transferase)	0	6503	0
+Glyoxylate carboligase (EC 4.1.1.47)	353	1193	4219
+Tartrate decarboxylase (EC 4.1.1.73)	929	0	0
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	2842	8841	32281
+Serine hydroxymethyltransferase (EC 2.1.2.1)	3010	8588	36126
+Serine hydroxymethyltransferase (EC 2.1.2.1)	3010	8588	36126
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	2842	8841	32281
+1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)	3240	9854	39895
+1,4-alpha-glucan (starch) branching enzyme, GH-13-type (EC 2.4.1.18)	0	1	0
+Glycogen debranching enzyme (EC 3.2.1.-)	5165	16450	63107
+Isoamylase-type starch debranching enzyme (3.2.1.-)	6	13	0
+1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)	3240	9854	39895
+Glycogen debranching enzyme (EC 3.2.1.-)	5165	16450	63107
+Enolase (EC 4.2.1.11)	3439	9781	41960
+Fructose-bisphosphate aldolase class I (EC 4.1.2.13)	1896	0	24208
+Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	1029	3048	0
+NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	0	8685	37593
+NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)	0	1263	5051
+Enolase (EC 4.2.1.11)	3439	9781	41960
+Aconitate hydratase (EC 4.2.1.3)	5875	19201	77271
+Citrate synthase (si) (EC 2.3.3.1)	4315	12771	53199
+Isocitrate lyase (EC 4.1.3.1)	1301	3904	17587
+Isocitrate lyase (EC 4.1.3.1), group III, Mycobacterial type ICL2	154	455	1996
+Malate synthase (EC 2.3.3.9)	1361	4487	18979
+Malate synthase G (EC 2.3.3.9)	415	0	0
+Heat shock protein 60 family chaperone GroEL	9192	24880	115340
+CoB--CoM heterodisulfide reductase subunit C (EC 1.8.98.1)	3533	10655	44862
+Chaperone protein DnaK	7295	20607	89663
+Translation elongation factor LepA	4576	12693	55260
+5-aminolevulinate synthase (EC 2.3.1.37)	413	1125	4885
+Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)	487	1454	5399
+Heme oxygenase HemO, associated with heme uptake	1514	4573	17640
+Antibiotic biosynthesis monooxygenase domain-containing protein	0	2	0
+Iron compound ABC uptake transporter permease protein PiaC	0	1	0
+Urocanate hydratase (EC 4.2.1.49)	2380	7432	29696
+Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	2705	8961	34419
+Homogentisate 1,2-dioxygenase (EC 1.13.11.5)	1280	4058	15399
+Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)	6086	18125	78280
+hydrogenase (cytochrome-c3 hydrogenase beta chain)	98	311	1190
+hydrogenase/sulfur reductase, gamma subunit	3711	11205	48525
+Iron only hydrogenase large subunit	3668	0	46992
+[Ni/Fe] hydrogenase, group 1, small subunit	0	331	1429
+Signal transduction histidine kinase HoxJ (hydrogenase regulation)	4089	12635	57568
+Uptake hydrogenase large subunit (EC 1.12.99.6)	4515	14159	65371
+4Fe-4S ferredoxin, iron-sulfur binding	732	0	9513
+Adenylylsulfate reductase alpha-subunit (EC 1.8.99.2)	128	277	1232
+Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)	2771	7784	31384
+Sulfate-binding protein Sbp	298	864	3502
+Inositol oxygenase (EC 1.13.99.1)	198	390	1673
+Translation elongation factor LepA	4646	12915	56300
+Cysteine desulfurase CsdA-CsdE, sulfur acceptor protein CsdE	110	298	1426
+Iron-sulfur cluster assembly ATPase protein SufC	1951	5318	22097
+Iron-sulfur cluster assembly protein SufB	3512	9347	42382
+Probable acyl-CoA dehydrogenase (EC 1.3.99.3)	482	1500	6320
+1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)	0	6455	27302
+Kappa-fimbriae usher protein	51	196	659
+Acetyl-coenzyme A synthetase (EC 6.2.1.1)	7092	21465	90257
+Alpha-N-arabinofuranosidase 2 (EC 3.2.1.55)	461	1345	6692
+Alternative L-arabinose isomerase (EC 5.3.1.4)	33	0	932
+L-arabinose isomerase (EC 5.3.1.4)	436	1251	5874
+L-arabonate dehydratase (EC 4.2.1.25)	678	2274	8815
+Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	85	0	0
+Late competence protein ComER, proline oxidase (EC 1.5.1.2)	2	0	0
+Legionaminic acid biosynthesis protein PtmG	0	0	850
+3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	3295	0	0
+Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	2705	8961	34419
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)	614	1766	6790
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)	544	1799	6936
+L-fuconate dehydratase (EC 4.2.1.68)	598	1780	7446
+L-fucose isomerase (EC 5.3.1.25)	0	164	644
+L-fuconate dehydratase (EC 4.2.1.68)	598	1780	7446
+Cinnamyl-alcohol dehydrogenase (EC 1.1.1.195)	68	0	0
+Lipoprotein releasing system transmembrane protein LolE	1720	5707	22419
+Distant similarity with viral glycoprotein gp160 of HIV type 1	6075	18102	78203
+Hypothetical protein, Lmo2306 homolog [Bacteriophage A118]	2781	8506	36890
+Major capsid protein [Bacteriophage A118]	1	0	29
+Putative peptidoglycan bound protein (LPXTG motif) Lmo0320 homolog	3011	8590	36134
+Hypothetical protein YfkI	0	2	0
+Serine hydroxymethyltransferase (EC 2.1.2.1)	3010	8588	36126
+UDP-galactopyranose mutase (EC 5.4.99.9)	1004	2690	9352
+L-rhamnonate dehydratase (EC 4.2.1.90)	16	72	0
+Predicted L-rhamnose isomerase RhaI (EC 5.3.1.14)	586	1799	6923
+LSU ribosomal protein L11p (L12e)	1001	2950	13000
+LSU ribosomal protein L1p (L10Ae)	0	4567	0
+L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3)	136	608	2297
+L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3)	67	322	1148
+L-pipecolate dehydrogenase (EC 1.5.99.3)	0	353	1295
+Lysine decarboxylase 2, constitutive (EC 4.1.1.18)	71	212	1025
+Lysine decarboxylase (EC 4.1.1.18)	0	1010	0
+Butyrate-acetoacetate CoA-transferase subunit B (EC 2.8.3.9)	65	0	727
+L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3)	136	608	2297
+L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3)	67	322	1148
+Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)	8093	0	0
+Integral membrane protein YfiB	1720	5707	22419
+Nucleoside-specific channel-forming protein Tsx precursor	1	0	0
+Malonate decarboxylase alpha subunit	0	318	0
+Oligo-1,6-glucosidase (EC 3.2.1.10)	329	1005	3884
+Mannose-6-phosphate isomerase, class I (EC 5.3.1.8)	0	2	0
+Programmed cell death antitoxin MazE	4704	13390	57643
+tRNA (cm5uracil34-C5-)-methyltranferase (EC 2.1.1.-)	4380	13553	58603
+Urm1p Ubiquitin like protein involve in thiolation of mcm5Us4 in tRNA	229	711	2615
+Energy conserving hydrogenase Eha ferredoxin (protein P2)	539	1431	5515
+Energy conserving hydrogenase Eha large subunit homolog (protein O)	1515	4540	17785
+Energy conserving hydrogenase Eha transmembrane protein A	60	0	0
+Naphthoate synthase (EC 4.1.3.36)	657	2311	0
+Mercuric resistance operon coregulator	68	0	0
+Mercuric transport protein, MerT	143	631	2366
+Organomercurial lyase (EC 4.99.1.2)	0	405	0
+Pseudolysin, extracellular zinc protease (EC 3.4.24.26)	1457	4645	17582
+Dimethylamine permease	2	0	0
+Monomethylamine permease	0	78	0
+Methyl coenzyme M reductase system component A2 homolog	1819	0	27394
+Ni2+-binding GTPase involved in regulation of expression and maturation of hydrogenase	519	1846	7958
+Small heat shock protein HSP16.5	143	387	1623
+Uncharacterized ferredoxin MJ0099	157	0	0
+Uncharacterized protein MJ0065	315	952	4801
+Archaeal flavoprotein COG1036	11	0	0
+D-alanyl transfer protein DltB	8124	0	0
+Methicillin resistance regulatory sensor-transducer MecR1	1	0	0
+5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	7648	0	0
+Adenosylhomocysteinase (EC 3.3.1.1)	4046	11117	47786
+S-adenosylmethionine synthetase (EC 2.5.1.6)	2880	8341	35338
+2-Oxobutyrate dehydrogenase E1 (EC:1.2.4.1)	25	84	280
+Adenosylhomocysteinase (EC 3.3.1.1)	4046	11117	47786
+Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	4003	12843	48264
+Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)	3155	9015	43037
+S-adenosylmethionine synthetase (EC 2.5.1.6)	2880	8341	35338
+2-methylisocitrate dehydratase (EC 4.2.1.99)	1721	6021	23436
+Outer membrane protein OprM	0	343	0
+Syndecan-1 precursor	2428	7071	31147
+FATTY-ACID-CoA LIGASE FADD26 (FATTY-ACID-COA SYNTHETASE) (FATTY-ACID-CoA SYNTHASE)	3	0	0
+METHOXY MYCOLIC ACID SYNTHASE 3 MMAA3 (METHYL MYCOLIC ACID SYNTHASE 3) (MMA3) (HYDROXY MYCOLIC ACID SYNTHASE)	0	2	0
+METHOXY MYCOLIC ACID SYNTHASE 4 MMAA4 (METHYL MYCOLIC ACID SYNTHASE 4) (MMA4) (HYDROXY MYCOLIC ACID SYNTHASE)	8	26	0
+POSSIBLE ACYL-[ACYL-CARRIER PROTEIN] DESATURASE DESA2 (ACYL-[ACP] DESATURASE) (STEAROYL-ACP DESATURASE)	0	11	25
+POSSIBLE LINOLEOYL-CoA DESATURASE (DELTA(6)-DESATURASE)	273	1029	2914
+Probable acyl-[acyl-carrier protein] desaturase DESA1 (Acyl-[ACP] desaturase) (Stearoyl-ACP desaturase) (Protein DES) (EC 1.14.19.2)	6	0	254
+SECRETED ANTIGEN 85-A FBPA (MYCOLYL TRANSFERASE 85A) (FIBRONECTIN-BINDING PROTEIN A) (ANTIGEN 85 COMPLEX A)	0	11	0
+SECRETED ANTIGEN 85-C FBPC (85C) (ANTIGEN 85 COMPLEX C) (AG58C) (MYCOLYL TRANSFERASE 85C) (FIBRONECTIN-BINDING PROTEIN C)	0	13	0
+Redox-sensing transcriptional regulator QorR	7136	21606	90735
+naphthalene dioxygenase ferredoxin	0	0	75
+Electron transport complex protein RnfG	1066	2796	0
+1H-3-hydroxy-4-oxoquinoline 2,4-dioxygenase	2249	6490	28409
+Nitrite transporter from formate/nitrite family	0	303	1192
+Periplasmic nitrate reductase precursor (EC 1.7.99.4)	345	1235	3866
+AnfO protein, required for Mo- and V-independent nitrogenase	2438	7078	31175
+60S ribosome subunit biogenesis protein NIP7	487	0	0
+Cadherin-4 precursor	269	854	3564
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)	617	1783	6844
+Low G+C gram positive nudix hydrolase YtkD (EC 3.6.-.-)	43	0	0
+Catalase (EC 1.11.1.6)	4616	13953	50876
+Manganese superoxide dismutase (EC 1.15.1.1)	986	2344	10059
+Peroxidase (EC 1.11.1.7)	2880	9271	36007
+Particulate methane monooxygenase A-subunit (EC 1.14.13.25)	0	0	9
+Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)	3744	11556	52946
+Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9)	3744	11556	52946
+Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11)	2399	6666	26974
+Two-component response regulator yesN, associated with MetSO reductase	176	455	0
+Glutamine synthetase type I (EC 6.3.1.2)	4380	13552	58602
+Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)	229	709	2612
+Glutamine synthetase type III, GlnN (EC 6.3.1.2)	1258	3612	13880
+Membrane transporter HdeD, H-NS repressed	438	1251	5879
+Alpha-glucosidase AglA	0	245	0
+GDP-mannose 4,6-dehydratase (EC 4.2.1.47)	707	0	0
+Cell division inhibitor	1083	3282	13279
+HipB protein	1	0	0
+Single-stranded DNA-binding protein in PFGI-1-like cluster	1	0	0
+Phage head completion protein	90	129	605
+Phenylacetate-CoA oxygenase, PaaG subunit	642	1903	7209
+Phenylacetate-CoA oxygenase, PaaH subunit	166	0	0
+Phenylacetate-coenzyme A ligase (EC 6.2.1.30) PaaF	368	1217	4842
+Phenylacetic acid degradation protein PaaY	88	0	0
+Acyl coenzyme A dehydrogenase (EC 1.3.99.13)	0	880	0
+4-O-beta-D-glucoside hydrolase	59	154	850
+Predicted ATPase related to phosphate starvation-inducible protein PhoH	0	2316	0
+Lipopolysaccharide cholinephosphotransferase LicD2 (EC 2.7.8.-)	0	0	1
+Catalase (EC 1.11.1.6)	4585	13860	50278
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	2842	8841	32281
+Glyoxylate carboligase (EC 4.1.1.47)	353	1193	4219
+Malate synthase (EC 2.3.3.9)	1361	4487	18979
+Malate synthase G (EC 2.3.3.9)	415	0	0
+Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	93	267	1236
+Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)	28	87	419
+Serine hydroxymethyltransferase (EC 2.1.2.1)	3010	8588	36126
+Photosystem II protein PsbK	254	917	3538
+Photosystem II protein PsbL	406	0	0
+2-cys peroxiredoxin BAS1, chloroplast precursor	779	2634	12525
+Beta-amyrin synthase	409	1312	5552
+Protein VirD5 in virD operon	2291	6412	25906
+Cleavage and polyadenylation specificity factor, 160 kDa subunit	90	0	1615
+Arginine decarboxylase, catabolic (EC 4.1.1.19)	66	0	0
+Carboxynorspermidine dehydrogenase, putative (EC 1.1.1.-)	2	0	0
+N-carbamoylputrescine amidase (3.5.1.53)	1065	0	0
+Ornithine decarboxylase (EC 4.1.1.17)	943	3005	11457
+Putrescine/proton symporter, putrescine/ornithine antiporter PotE	137	415	1869
+S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A	37	56	313
+Lipoteichoic acid synthase LtaS Type IIIb1	1720	5707	22419
+Butyrate-acetoacetate CoA-transferase subunit B (EC 2.8.3.9)	65	0	727
+Intracellular PHB depolymerase (EC 3.1.1.-)	123	416	1438
+Polymyxin synthetase PmxB	331	1006	3916
+Dehydrosqualene synthase (EC 2.5.1.-)	2	0	0
+Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)	2214	5866	29164
+Predicted secretion system X protein GspE-like	1174	0	0
+2-methylisocitrate dehydratase (EC 4.2.1.99)	1721	6021	23436
+Aconitate hydratase (EC 4.2.1.3)	5875	19201	77271
+Biotin carboxylase of Propionyl-CoA carboxylase (EC 6.3.4.14)	0	15	0
+Methylmalonyl-CoA mutase (EC 5.4.99.2)	7180	20337	87989
+Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)	728	2180	8632
+Serine hydroxymethyltransferase (EC 2.1.2.1)	3024	8641	36334
+Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'	424	1520	5650
+ATP-dependent Clp protease ATP-binding subunit ClpX	3339	9398	42074
+ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	2235	7178	29852
+ATP-dependent hsl protease ATP-binding subunit HslU	1674	0	0
+proteasome-activating AAA-ATPase (PAN)	723	2474	9803
+proteasome regulatory subunit Rpt4	4	0	0
+Catalase (EC 1.11.1.6)	4585	13863	50291
+Peroxidase (EC 1.11.1.7)	2845	9165	35608
+Acetyl-coenzyme A synthetase (EC 6.2.1.1)	7105	21486	90381
+ClpB protein	8667	0	105963
+Nondeblocking aminopeptidase YpdE (X-X-[^PR]- specific)	4009	12850	48298
+ATP-dependent Clp protease, ATP-binding subunit ClpC	2381	6759	31403
+ATP-dependent Clp protease ATP-binding subunit ClpX	3539	9801	43966
+ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	2897	9390	40128
+ATP-dependent hsl protease ATP-binding subunit HslU	1789	0	21083
+ClpB protein	8673	0	106147
+PQS biosynthesis protein PqsD, similar to 3-oxoacyl-[acyl-carrier-protein] synthase III	11999	36151	144449
+PqsE, quinolone signal response protein	506	0	0
+Putative 3-oxoacyl-[acyl-carrier-protein] synthase III in AHQ biosynthetic operon, related to PqsB	2215	7904	23793
+Putative non-ribosomal peptide synthetase in AHQ biosynthetic operon	5040	14079	61435
+Homogentisate 1,2-dioxygenase (EC 1.13.11.5)	1261	3974	15120
+Homogentisate 1,2-dioxygenase (EC 1.13.11.5)	1261	3974	15120
+Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)	3	0	0
+Phosphate starvation-inducible protein PhoH	2667	8540	35355
+Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11)	2288	6409	25886
+Gamma-aminobutyrate:pyruvate aminotransferase (EC 2.6.1.-)	6	9	0
+Gamma-glutamyl-putrescine synthetase (EC 6.3.1.11)	60	0	684
+Hypothetical protein pVir0038	3255	9311	38974
+Hypothetical protein pVir0044	4003	12843	48264
+Hypothetical protein pVir0045	3010	8588	36126
+Hypothetical protein pVir0047	2164	6528	25298
+NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	0	8685	37593
+Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit (EC 2.4.2.-)	837	2422	10985
+CTP synthase (EC 6.3.4.2)	4884	14525	62148
+Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	1287	3954	15620
+Beta-ureidopropionase, eukaryotic type (EC 3.5.1.6)	938	0	0
+Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)	3155	9015	43037
+D-malic enzyme (EC 1.1.1.83)	926	2661	0
+Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)	1847	4850	20245
+Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)	1665	5499	21692
+Acetyl-coenzyme A synthetase (EC 6.2.1.1)	7092	21465	90257
+Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)	3296	9324	38805
+Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	4003	12843	48264
+NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.-)	506	1382	0
+PTPSVII	879	2700	10744
+NADPH:quinone reductase (Quinone oxidoreductase) (EC 1.6.5.5)	101	307	1516
+YhdH, a putative quinone oxidoreductase	1398	0	0
+S-adenosylhomocysteine hydrolase; Pfs (EC 3.2.2.9)	2428	7065	31135
+8-amino-7-oxononanoate synthase (EC 2.3.1.47) / CqsA	36	127	364
+Transcriptional regulator RhlR	4695	13366	57524
+Phage major tail protein	2392	7257	29751
+Phage protein # Prophage Lp1 Protein 19	846	2928	10971
+NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	0	8696	37641
+NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)	0	1314	5222
+membrane docking protein	529	1695	6648
+Manganese superoxide dismutase (EC 1.15.1.1)	1164	2852	11853
+Peroxidase (EC 1.11.1.7)	3324	10537	40974
+Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)	0	0	7481
+DNA gyrase subunit B (EC 5.99.1.3)	4737	13552	58162
+Topoisomerase IV subunit B (EC 5.99.1.-)	2204	6524	24677
+NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)	1596	4720	20240
+NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)	2436	7469	31710
+NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)	1154	3088	13692
+Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII	132	402	1473
+Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)	1147	3055	11102
+Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)	525	1571	5224
+Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)	0	2764	0
+Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)	5805	16993	74044
+LSU ribosomal protein L2p (L8e)	1838	5398	22389
+LSU ribosomal protein L5p (L11e)	3627	9862	45406
+LSU ribosomal protein L32p, chloroplast	1261	3976	15129
+LSU ribosomal protein L35Ae	464	1348	6708
+LSU ribosomal protein L11p (L12e), mitochondrial	681	2279	8858
+LSU ribosomal protein L51mt, mitochondrial	707	0	0
+LSU ribosomal protein MRP51, mitochondrial	149	0	0
+SSU ribosomal protein S10p (S20e)	836	2202	9555
+SSU ribosomal protein S11p (S14e)	735	2357	9796
+SSU ribosomal protein S12p (S23e)	733	2284	9723
+SSU ribosomal protein S19p (S15e)	730	2030	9050
+SSU ribosomal protein S21p	1299	3828	15346
+SSU ribosomal protein S3p (S3e)	0	0	21966
+SSU ribosomal protein S16e (S9p)	2484	7143	31466
+SSU ribosomal protein S20e (S10p)	15	0	0
+DNA-directed RNA polymerase subunit A (EC 2.7.7.6)	343	0	0
+DNA-directed RNA polymerase subunit B (EC 2.7.7.6)	398	527	2060
+DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	2249	6490	28414
+DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	8472	24159	109647
+DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	8848	25464	112006
+Unknown m4Cm1402 B	2842	8841	32281
+Fe-S oxidoreductase-like protein in Rubrerythrin cluster	240	625	2898
+regulator protein,AreR	0	2	0
+salicylate esterase	2572	7778	31939
+Probable ATP synthase SpaL (EC 3.6.3.14) (Invasion protein InvC)	1005	2693	9362
+SECIS-binding protein 2	584	0	0
+Serine hydroxymethyltransferase (EC 2.1.2.1)	3010	8588	36126
+Aconitate hydratase (EC 4.2.1.3)	5875	19201	77271
+Citrate synthase (si) (EC 2.3.3.1)	4315	12771	53199
+Enolase (EC 4.2.1.11)	3439	9781	41960
+ethylmalonyl-CoA mutase	7627	21743	92862
+Fumarate hydratase class I, aerobic (EC 4.2.1.2)	1503	4826	18789
+Fumarate hydratase class I, anaerobic (EC 4.2.1.2)	0	84	396
+Fumarate hydratase class I, N-terminal domain	4	27	88
+Isocitrate lyase (EC 4.1.3.1)	1301	3904	17587
+Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	2705	8961	34419
+Methylmalonyl-CoA mutase (EC 5.4.99.2)	7180	20337	87989
+Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)	1847	4850	20245
+Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)	2780	8499	36873
+Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)	728	2180	8632
+putative isobutyryl-CoA mutase, chain B	125	396	1514
+Serine hydroxymethyltransferase (EC 2.1.2.1)	3010	8588	36126
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)	5629	15993	67950
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	2164	6528	25298
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)	614	1766	6790
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)	544	1799	6936
+Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	2052	6473	26317
+Capsular polysaccharide synthesis enzyme Cap5D	0	9	0
+Capsular polysaccharide synthesis enzyme Cap5I	0	2	0
+Capsular polysaccharide synthesis enzyme Cap5M	1	0	0
+Capsular polysaccharide synthesis enzyme Cap8E	0	0	64
+Capsular polysaccharide synthesis enzyme Cap8F	7	0	0
+Capsular polysaccharide synthesis enzyme Cap8J	0	1	0
+Achromobactin biosynthesis protein AcsA	0	5	0
+Achromobactin biosynthesis protein AcsE, Orn/DAP/Arg decarboxylase family	0	1	0
+Achromobactin biosynthesis protein AcsF	0	12	0
+TonB-dependent ferric achromobactin receptor protein	7	0	0
+Antibiotic biosynthesis monooxygenase domain-containing protein	0	2	0
+Desferrioxamine E biosynthesis protein DesB	0	21	0
+Enantio-pyochelin biosynthetic protein PchK, putative reductoisomerase	0	1	0
+FIG137594: Putative iron-regulated membrane protein	3	0	0
+Hypothetical protein PvdX	18	75	270
+Hypothetical protein PvdY	3	0	0
+Probable hydrolase, coexpressed with pyoverdine biosynthesis regulon	6	0	0
+Siderophore staphylobactin biosynthesis protein SbnC	0	1	0
+Rhodanese domain protein UPF0176, Legionella subgroup	0	1	0
+Small acid-soluble spore protein, alpha/beta family, SASP_1	0	2	0
+Cytochrome c552	564	0	0
+Cytochrome c552 precursor (EC 1.7.2.2)	486	1348	4655
+Methane monooxygenase component A alpha chain (EC 1.14.13.25)	131	453	1631
+Methane monooxygenase component A beta chain (EC 1.14.13.25)	2050	5662	19336
+Methane monooxygenase component D (EC 1.14.13.25)	1882	4853	21412
+Acyl-CoA-dependent ceramide synthase (EC 2.3.1.24)	0	1	0
+Pre-mRNA splicing factor PRP8	3039	8616	36301
+Manganese superoxide dismutase (EC 1.15.1.1)	972	2306	9859
+Protein GerPC, required for proper assembly of spore coat, mutations lead to super-dormant spore	1	0	0
+Spore cortex-lytic enzyme CwlJ	2	0	0
+Spore germination protein GerYB	1	0	0
+Polyketide cyclase WhiE VII	9	0	0
+KapB, lipoprotein required for KinB pathway to sporulation	0	1	10
+KapD, inhibitor of KinA pathway to sporulation	3	0	0
+Stage III sporulation protein AB	860	2339	10439
+Stage V sporulation protein required for normal spore cortex and coat synthesis (SpoVM)	0	1	0
+CI-like repressor, superantigen-encoding pathogenicity islands SaPI	398	1122	5701
+Heat shock protein 60 family chaperone GroEL	8561	22748	107175
+Superantigen enterotoxin SEB	0	1149	0
+Superantigen enterotoxin SEC3	1327	0	16628
+Hypothetical protein, SAV0860 homolog [SA bacteriophages 11, Mu50B]	0	579	0
+Iron-sulfur cluster assembly protein SufB	3966	10660	48001
+Hypothetical mga-associated protein	2	0	0
+Collagen-binding adhesin	1	0	0
+FasL	0	0	3
+Protein H	986	2314	9953
+Streptolysin S precursor (SagA)	657	2311	0
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)	5859	16739	70856
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	2195	6629	25775
+Alpha-glucuronidase (EC 3.2.1.139)	251	647	3450
+Beta-glucoside ABC transport system, ATP-binding protein 2	1	0	0
+Cellobiose phosphorylase (EC 2.4.1.-)	124	384	1975
+L-arabinose isomerase (EC 5.3.1.4)	436	1251	5874
+Predicted galactoside ABC transporter, permease protein 1	0	2	0
+Uronate isomerase (EC 5.3.1.12)	580	0	0
+Xylose isomerase (EC 5.3.1.5)	1361	4001	16123
+Mucin-desulfating sulfatase MdsA precursor (EC 3.1.6.14)	0	2	0
+Glycosyltransferase SypN	2121	6283	23773
+Similar to non-heme chloroperoxidase	617	1844	8477
+Similar to non-heme chloroperoxidase, sll5080 homolog	566	1674	7741
+Cyclic beta-1,2-glucan modification transmembrane protein	1959	0	22238
+Cyclic beta-1,2-glucan synthase (EC 2.4.1.-)	9434	0	116833
+T7-like phage exonuclease (EC 3.1.11.3)	45	88	384
+T7-like phage internal protein A	692	2340	9388
+Aconitate hydratase (EC 4.2.1.3)	5875	19201	77271
+Citrate synthase (si) (EC 2.3.3.1)	4315	12771	53199
+Fumarate hydratase class I, aerobic (EC 4.2.1.2)	1503	4826	18789
+Fumarate hydratase class I (EC 4.2.1.2)	28	76	338
+Fumarate hydratase class I, N-terminal domain	4	27	88
+Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	3255	9311	38974
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)	5629	15993	67950
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	2164	6528	25298
+Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	2052	6473	26317
+Alternative cytochrome c oxidase polypeptide CoxN (EC 1.9.3.1)	1029	3063	13294
+Cytochrome C oxidase (EC 1.9.3.1) FixO chain	1	0	0
+Cytochrome c oxidase polypeptide I (EC 1.9.3.1)	6175	19136	83775
+Cytochrome c oxidase subunit CcoN (EC 1.9.3.1)	1014	2903	11960
+Cytochrome c oxidase subunit CcoO (EC 1.9.3.1)	665	1847	7998
+Cytochrome c oxidase subunit, putative (EC 1.9.3.1)	1	0	0
+Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)	404	1356	5468
+Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)	404	1356	5468
+Transcriptional regulator of fimbriae expression FimZ (LuxR/UhpA family)	370	1220	4334
+Thiamin biosynthesis protein ThiC	2172	6161	28560
+Toluate 1,2-dioxygenase electron transfer component	2847	9162	35610
+Toxin mRNA interferase YgiU	2429	7069	31152
+RNA polymerase sigma factor RpoH-related protein RpoH2	29	0	0
+RNA polymerase sigma factor SigV	2435	7549	30310
+Translation elongation factor LepA	5343	14660	64171
+Translation elongation factor Tu	4000	12391	53667
+Translation elongation factor 1 alpha subunit	206	0	0
+Eukaryotic translation initiation factor 3 RNA-binding subunit	129	338	0
+Peptide chain release factor 2	1882	5719	23843
+Peptide chain release factor 3	1172	0	13911
+Manganese uptake regulation protein MUR	47	0	0
+1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)	3240	9854	39895
+Glycogen debranching enzyme (EC 3.2.1.-)	5165	16450	63107
+Trehalose synthase (EC 5.4.99.16)	3327	9933	40768
+Triacylglycerol lipase (EC 3.1.1.3)	0	0	6
+Ammonia monooxygenase	205	0	0
+Alanyl-tRNA synthetase (EC 6.1.1.7), chloroplast	2	0	0
+Asparaginyl-tRNA synthetase (EC 6.1.1.22)	1731	4518	19757
+Glutaminyl-tRNA synthetase (EC 6.1.1.18)	2172	5921	27155
+Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	845	2621	10830
+Glycyl-tRNA synthetase (EC 6.1.1.14)	1942	5154	23013
+Phosphate starvation-inducible ATPase PhoH with RNA binding motif	0	1148	0
+Asparagine--tRNA ligase related protein	3019	8606	36188
+Iron-sulfur cluster assembly scaffold protein IscU	3539	10655	43647
+Predicted RNA-binding protein COG1491	5218	16513	63424
+Thiamine biosynthesis protein ThiI	3556	10639	43322
+TilS-like 3	5166	16456	63122
+Cysteine desulfurase (EC 2.8.1.7), IscS subfamily	1908	0	0
+Iron-sulfur cluster assembly protein SufB	3512	9351	42389
+tRNA-guanine transglycosylase (EC 2.4.2.29)	7685	24834	99804
+tRNA:m(5)U-54 MTase gid	0	0	30581
+tRNA (Uracil54-C5-)-methyltransferase (EC 2.1.1.35)	0	0	19512
+COG0009 Sua5 subfamily, required for N6-threonylcarbamoyl adenosine t(6)A37 modification in tRNA	9135	24458	113649
+Pseudouridylate synthase 8 (EC 5.4.99.-) responsible for modification of cytoplasmic tRNAs at position 32	0	2	0
+tRNA (cytosine-5-)-methyltransferase NCL1 (EC 2.1.1.29) (tRNA methyltransferase 4) (Multisite-specific tRNA:m5C-methyltransferase)	7299	20612	89685
+tRNA (Uracil54-C5-)-methyltransferase (EC 2.1.1.35)	4617	12814	55781
+tRNA-Gly-GCC	1	0	0
+tRNA-Leu	3669	11131	47450
+Tryptophan synthase beta chain (EC 4.2.1.20)	2386	7215	29549
+HpaA protein	65	0	745
+putative type III secretion system EscC protein	67	0	0
+Secretion system effector SseE	467	1615	6548
+Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	1882	4853	21412
+ClpB protein	15835	46396	196295
+Secreted protein Hcp	4392	13587	58705
+Serine/threonine-protein kinase ImpN involved in nitrogen fixation	1265	3626	13944
+Uncharacterized protein ImpC	635	1876	7991
+Quinol oxidase-2, sulfocyanin (blue copper protein) (SoxE)	3014	8604	36168
+TPR-repeat-containing protein, putative component of Menaquinone-cytochrome C reductase	2404	7505	30046
+GTP-binding protein TypA/BipA	4007	11958	49475
+Translation elongation factor LepA	4730	13173	57375
+Translation elongation factor Tu	4151	12871	55657
+Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)	0	4026	0
+Fructose-bisphosphate aldolase class I (EC 4.1.2.13)	1896	0	24208
+Urea ABC transporter, urea binding protein	1227	3634	15062
+Urease accessory protein UreG	535	1422	5477
+Urease alpha subunit (EC 3.5.1.5)	1508	4526	17710
+Urease accessory protein UreG	535	1422	5477
+Urease alpha subunit (EC 3.5.1.5)	1508	4526	17710
+ClpB protein	8638	24245	105673
+Uncharacterized protein ImpC	631	1863	7960
+Probable acyl-CoA dehydrogenase (EC 1.3.99.3)	482	1500	6320
+lipopolysaccharide biosynthesis protein, putative	1579	0	0
+Toxin co-regulated pilin A	0	6457	0
+VirE1 involved in nuclear transport of T-DNA, a chaperone for VirE2	0	347	1684
+WhiB-like transcription regulator	69	0	0
+predicted 2-keto-3-deoxyxylonate dehydratase	102	416	0
+predicted xylose isomerase	0	2	0
+Xylonate dehydratase (EC 4.2.1.82)	296	944	3752
+Xylose isomerase (EC 5.3.1.5)	1361	4001	16123
+Pyrimidine deoxynucleoside triphosphate (dYTP) pyrophosphohydrolase YfoO	0	2	0
+Aconitate hydratase (EC 4.2.1.3)	5875	19201	77271
+Cysteine desulfurase (EC 2.8.1.7), IscS subfamily	879	0	0
+Fumarate hydratase class I, aerobic (EC 4.2.1.2)	1503	4826	18789
+Glutamate--cysteine ligase (EC 6.3.2.2), divergent, of Alpha- and Beta-proteobacteria type	159	389	1328
+Glutathione-dependent formaldehyde-activating enzyme (EC 4.4.1.22)	97	215	1012
+Iron-sulfur cluster assembly ATPase protein SufC	1951	5318	22097
+NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)	2430	7437	31585
+S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284)	877	2700	10742
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	2164	6528	25298
+TctA citrate transporter	0	579	0
+Serine hydroxymethyltransferase (EC 2.1.2.1)	3010	8588	36128
+MFS superfamily export protein YceL	108	310	1455
+Microcompartment protein protein similar to PduA/PduJ	31	92	0
+Glycoside hydrolase family 2, sugar binding	2	0	0
+Hypothetical sugar ABC transporter TM1149, permease protein	0	78	0
+Triosephosphate isomerase (EC 5.3.1.1)	11	0	0
+Competence protein PilN	7648	0	0
+Competence protein PilW	4046	11117	47786
+Type IV pilus biogenesis protein PilOPx	2880	8341	35338
+Methylcobalamin methyltransferase MMP0834	25	84	280
+Methyltransferase corrinoid activation protein	4046	11117	47786
+Thiol-specific antioxidant family (AhpC/TSA) protein associated with thiol:disulfide interchange protein	4003	12843	48264
+Putative glycosyl hydrolase of unknown function (DUF1680)	3155	9015	43037
+Putative oligoketide cyclase/dehydratase or lipid transport protein YfjG	2880	8341	35338
+L-asparaginase I, cytoplasmic (EC 3.5.1.1)	0	4567	0
+FIG049476: HIT family protein	1721	6021	23436
+COG1720: Uncharacterized conserved protein	879	0	0
